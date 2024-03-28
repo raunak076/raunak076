@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm raunak076</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="left">Hi 👋, I'm raunak076 , a passionate  developer </h1> ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrbmLd7_YxMWW5d4FvNPUyQYEF4LUkTLW0-i00WfhwQA&s)
+
 
 
 - 🔭 I’m currently working on **Abhyas mcq generator**
