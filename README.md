@@ -1,5 +1,4 @@
-💫 About Me: Hi ! I am raunak76 , a developer and an engineering student   
-![](https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif)
+💫 About Me: Hi ! I am raunak76 , a developer and an engineering student ![](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif)
 
 
 
