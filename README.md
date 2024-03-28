@@ -1,4 +1,8 @@
-<h1 align="left">Hi 👋, I'm raunak076 , a passionate  developer </h1> ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrbmLd7_YxMWW5d4FvNPUyQYEF4LUkTLW0-i00WfhwQA&s)
+<h1 >
+  <span >Hi 👋, I'm raunak076, a passionate developer</span>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrbmLd7_YxMWW5d4FvNPUyQYEF4LUkTLW0-i00WfhwQA&s" alt="raunak076" style="width: 200px;">
+</h1>
+
 
 
 
