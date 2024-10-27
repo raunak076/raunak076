@@ -6,11 +6,11 @@
 
 
 
-- 🔭 I’m currently working on **Abhyas mcq generator**
+- 🔭 I’m currently working on **DeepFake Detection**
 
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently learning **Deep Learning Algorithms**
 
-- 💬 Ask me about **MERN JAVA DSA**
+- 💬 Ask me about **MERN JAVA DSA ML OpenCV**
 
 - ⚡ Fun fact **Trying to defeat myself everyday !**
 
