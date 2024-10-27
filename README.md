@@ -13,6 +13,7 @@
 - 💬 Ask me about **MERN JAVA DSA ML OpenCV**
 
 - ⚡ Fun fact **Trying to defeat myself everyday !**
+- <h3 style="background-color:red">The more you sweet in practice The less you bleed in war </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raunak076&label=Profile%20views&color=0e75b6&style=flat" alt="raunak076" /> </p>
